@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 <a href="URL_REDIRECT" target="blank"><img align="center" src="https://www.pixel4k.com/wp-content/uploads/2021/03/person-gazing-at-stars-4k_1614620353.jpg" height="500" /></a>
 
-- 🌱 I’m currently learning Software engineering skills.
+- 🌱 I’m currently learning Software engineering skills, interested in Full stack web development, linux and more.
 - 📫 How to reach me: 
 <!-- <a href="https://www.linkedin.com/in/ali-baghdadi-7095a01b5" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" height="40" /></a>
 --> 
-<a href="t.me/itisbetternottofindout" target="blank"><img align="center" src="https://pnggrid.com/wp-content/uploads/2021/04/telegram-logo-circle-1024x1024.png" height="40" /></a>
+<a href="t.me/itisbetternottofindout" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=lUktdBVdL4Kb&format=png&color=000000" height="40" /></a>
 
 
 
